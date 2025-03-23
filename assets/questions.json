@@ -2,123 +2,63 @@
   "questions": [
     {
       "id": 1,
-      "question": "Apa kepanjangan dari 'HTML' dalam dunia pemrograman web?",
-      "options": ["Hypertext Markup Language", "High-Tech Machine Language", "Hyperlink Text Machine Language", "Hyper Terminal Machine Language"],
-      "answer": "Hypertext Markup Language"
+      "question": "Apa nama gedung utama yang terdapat di Kampus Lidah Wetan Universitas Negeri Surabaya?",
+      "options": ["Graha Unesa", "Gedung Gema Unesa", "Perpustakaan Pusat", "Auditorium UNESA"],
+      "answer": "Graha Unesa"
     },
     {
       "id": 2,
-      "question": "Manakah struktur data yang menggunakan prinsip FIFO (First In, First Out)?",
-      "options": ["Stack", "Queue", "Array", "Linked List"],
-      "answer": "Queue"
+      "question": "Apa nama gedung utama yang digunakan untuk perkuliahan di Kampus UNESA Ketintang?",
+      "options": ["Gedung Rektorat", "Gedung Gema", "Gedung A9", "Gedung Pascasarjana"],
+      "answer": "Gedung A9"
     },
     {
       "id": 3,
-      "question": "Bahasa pemrograman apa yang paling sering digunakan untuk pengembangan aplikasi Android?",
-      "options": ["Swift", "Kotlin", "Ruby", "PHP"],
-      "answer": "Kotlin"
+      "question": "Apa nama kantin terkenal di Kampus UNESA Ketintang yang sering menjadi tempat favorit mahasiswa untuk makan?",
+      "options": ["Kantin Sehat", "Kantin Pojok", "Kantin Teknik", "Food Court UNESA"],
+      "answer": "Kantin Teknik"
     },
     {
       "id": 4,
-      "question": "Apa fungsi utama dari DNS (Domain Name System)?",
-      "options": ["Mengubah nama domain menjadi alamat IP", "Mengamankan data pengguna", "Mengatur koneksi internet", "Meningkatkan kecepatan jaringan"],
-      "answer": "Mengubah nama domain menjadi alamat IP"
+      "question": "Apa moto utama UNESA yang mencerminkan semangat dan nilai-nilai kampus?",
+      "options": ["Excellence in Education", "Growing with Integrity", "Unesa for Indonesia", "Growing with Character"],
+      "answer": "Growing with Character"
     },
     {
       "id": 5,
-      "question": "Manakah di bawah ini yang merupakan sistem operasi berbasis open source?",
-      "options": ["Windows", "macOS", "Linux", "Solaris"],
-      "answer": "Linux"
+      "question": "UNESA dikenal sebagai salah satu perguruan tinggi yang unggul di bidang...",
+      "options": ["Teknik dan Informatika", "Kedokteran dan Farmasi", "Pendidikan dan Keolahragaan", "Pariwisata dan Kuliner"],
+      "answer": "Pendidikan dan Keolahragaan"
     },
     {
       "id": 6,
-      "question": "Apa itu 'repository' dalam pengembangan perangkat lunak?",
-      "options": ["Tempat menyimpan file proyek", "Framework untuk membangun aplikasi", "Bahasa pemrograman khusus", "Tool untuk debugging aplikasi"],
-      "answer": "Tempat menyimpan file proyek"
+      "question": "UNESA sering mengadakan festival budaya dan seni tahunan yang melibatkan mahasiswa dari berbagai fakultas. Apa nama acara tersebut?",
+      "options": ["UNESA Culture Fest", "Festival Pendidikan", "Surabaya Art Week", "UNESA Art Day"],
+      "answer": "UNESA Culture Fest"
     },
     {
       "id": 7,
-      "question": "Apa kepanjangan dari 'API'?",
-      "options": ["Application Program Interface", "Advanced Protocol Integration", "Application Programming Interface", "Automated Program Integration"],
-      "answer": "Application Programming Interface"
+      "question": "Apa fokus utama dari Fakultas Vokasi di UNESA?",
+      "options": ["Pendidikan dan Teori Akademik", "Pendidikan Keolahragaan", "Pembelajaran berbasis keterampilan dan praktik industri", "Riset dan Penelitian Murni"],
+      "answer": "Pembelajaran berbasis keterampilan dan praktik industri"
     },
     {
       "id": 8,
-      "question": "Apa nama algoritma yang digunakan untuk menyortir data dengan membandingkan elemen yang berdekatan?",
-      "options": ["Bubble Sort", "Quick Sort", "Merge Sort", "Insertion Sort"],
-      "answer": "Bubble Sort"
+      "question": "Berapa jumlah program studi yang ada di Fakultas Vokasi Universitas Negeri Surabaya (UNESA)?",
+      "options": ["7", "9", "12", "13"],
+      "answer": "9"
     },
     {
       "id": 9,
-      "question": "Dalam sistem bilangan biner, bilangan 1101 setara dengan berapa dalam sistem desimal?",
-      "options": ["11", "12", "13", "14"],
-      "answer": "13"
+      "question": "Sebelum menjadi Program Studi D4, apa jenjang pendidikan Manajemen Informatika di UNESA?",
+      "options": ["D1", "D2", "D3", "S1"],
+      "answer": "D3"
     },
     {
       "id": 10,
-      "question": "Apa nama tool version control yang paling banyak digunakan oleh developer?",
-      "options": ["Git", "SVN", "Mercurial", "CVS"],
-      "answer": "Git"
-    },
-    {
-      "id": 11,
-      "question": "Apa fungsi utama dari RAM dalam komputer?",
-      "options": ["Menyimpan data sementara", "Memproses data", "Menyimpan data permanen", "Mengontrol perangkat keras"],
-      "answer": "Menyimpan data sementara"
-    },
-    {
-      "id": 12,
-      "question": "Apa kepanjangan dari 'CSS' dalam pengembangan web?",
-      "options": ["Cascading Style Sheets", "Creative Style Scripts", "Custom Script Syntax", "Cascading Script System"],
-      "answer": "Cascading Style Sheets"
-    },
-    {
-      "id": 13,
-      "question": "Apa nama model pengembangan perangkat lunak yang menggunakan pendekatan iteratif dan inkremental?",
-      "options": ["Agile", "Waterfall", "Prototype", "V-Model"],
-      "answer": "Agile"
-    },
-    {
-      "id": 14,
-      "question": "Apa nama software yang digunakan untuk mengelola basis data relasional?",
-      "options": ["PostgreSQL", "Apache", "Docker", "Node.js"],
-      "answer": "PostgreSQL"
-    },
-    {
-      "id": 15,
-      "question": "Apa peran dari 'compiler' dalam pemrograman?",
-      "options": ["Mengubah kode sumber menjadi bahasa mesin", "Mengeksekusi program secara langsung", "Mendiagnosa bug dalam program", "Mengelola sumber daya komputer"],
-      "answer": "Mengubah kode sumber menjadi bahasa mesin"
-    },
-    {
-      "id": 16,
-      "question": "Apa nama protokol yang digunakan untuk mengirimkan file melalui jaringan?",
-      "options": ["FTP", "HTTP", "SMTP", "DNS"],
-      "answer": "FTP"
-    },
-    {
-      "id": 17,
-      "question": "Manakah di bawah ini yang merupakan database NoSQL?",
-      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
-      "answer": "MongoDB"
-    },
-    {
-      "id": 18,
-      "question": "Apa itu 'debugging'?",
-      "options": ["Proses memperbaiki bug dalam kode", "Proses menguji keamanan aplikasi", "Proses menulis dokumentasi", "Proses mendesain aplikasi"],
-      "answer": "Proses memperbaiki bug dalam kode"
-    },
-    {
-      "id": 19,
-      "question": "Manakah di bawah ini yang termasuk ke dalam perangkat keras input?",
-      "options": ["Printer", "Mouse", "Monitor", "Speaker"],
-      "answer": "Mouse"
-    },
-    {
-      "id": 20,
-      "question": "Apa nama format pertukaran data yang sering digunakan dalam API?",
-      "options": ["XML", "JSON", "HTML", "YAML"],
-      "answer": "JSON"
+      "question": "Apa perbedaan utama antara Program Studi D4 Manajemen Informatika dan S1 Teknik Informatika?",
+      "options": ["D4 lebih berfokus pada keterampilan praktis dan industri", "D4 lebih banyak teori daripada praktik", "S1 memiliki durasi kuliah yang lebih pendek", "D4 tidak memiliki program magang"],
+      "answer": "D4 lebih berfokus pada keterampilan praktis dan industri"
     }
   ]
 }

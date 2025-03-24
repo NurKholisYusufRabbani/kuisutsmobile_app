@@ -59,6 +59,36 @@
       "question": "Apa perbedaan utama antara Program Studi D4 Manajemen Informatika dan S1 Teknik Informatika?",
       "options": ["D4 lebih berfokus pada keterampilan praktis dan industri", "D4 lebih banyak teori daripada praktik", "S1 memiliki durasi kuliah yang lebih pendek", "D4 tidak memiliki program magang"],
       "answer": "D4 lebih berfokus pada keterampilan praktis dan industri"
+    },
+    {
+      "id": 11,
+      "question": "Siapa nama lengkap Rektor Universitas Negeri Surabaya (UNESA) saat ini?",
+      "options": ["Prof. Dr. Nurhasan, M.Pd.", "Prof. Dr. Nurhasan, M.Kes.", "Dr. Nurhasan, M.Kes.", "Dr. Nurhasan, S.Pd., M.Kes."],
+      "answer": "Prof. Dr. Nurhasan, M.Kes."
+    },
+    {
+      "id": 12,
+      "question": "UNESA merupakan singkatan dari?",
+      "options": ["Universitas Nasional Surabaya", "Universitas Negeri Surabaya", "Universitas Negeri Sidoarjo", "Universitas Negeri Semarang"],
+      "answer": "Universitas Negeri Surabaya"
+    },
+    {
+      "id": 13,
+      "question": "Pada tahun berapa UNESA didirikan?",
+      "options": ["1954", "1964", "1974", "1984"],
+      "answer": "1964"
+    },
+    {
+      "id": 14,
+      "question": "UNESA sebelumnya dikenal dengan nama?",
+      "options": ["Universitas Pendidikan Surabaya", "IKIP Surabaya", "Politeknik Negeri Surabaya", "Institut Surabaya"],
+      "answer": "IKIP Surabaya"
+    },
+    {
+      "id": 15,
+      "question": "Kampus utama UNESA terletak di mana?",
+      "options": ["Ketintang", "Lidah Wetan", "Ngagel", "Dharmawangsa"],
+      "answer": "Lidah Wetan"
     }
   ]
 }

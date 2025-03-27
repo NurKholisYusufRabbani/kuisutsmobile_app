@@ -23,7 +23,8 @@ class QuizApp extends StatefulWidget {
 
 // Inheritance: _QuizAppState mewarisi dan mengimplementasikan QuizBase, menerapkan logika inti quiz.
 class _QuizAppState extends State<QuizApp> implements QuizBase {
-  // State variables untuk mengelola data quiz
+  // Enkapsulasi: Variabel-variabel di bawah ini adalah private karena diawali dengan underscore (_),
+  // memastikan bahwa mereka hanya dapat diakses oleh kelas ini.
   List<dynamic> _questions = []; // Menyimpan daftar pertanyaan
   int _currentQuestionIndex = 0; // Indeks pertanyaan saat ini
   int _score = 0; // Skor pengguna
@@ -47,6 +48,7 @@ class _QuizAppState extends State<QuizApp> implements QuizBase {
     List<dynamic> allQuestions = jsonResponse['questions'];
     allQuestions.shuffle(Random());
 
+    // Enkapsulasi: Variabel _questions hanya dapat dimodifikasi melalui fungsi ini.
     setState(() {
       _questions = allQuestions.take(10).toList(); // Mengambil 10 pertanyaan acak
     });
